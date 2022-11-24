@@ -3,9 +3,9 @@
 <rect width="673" height="496" fill="#414141" fill-opacity="0.45"/>
 </g>
 <rect width="673" height="28" fill="white"/>
-<ellipse cx="651" cy="14.5" rx="6" ry="5.5" fill="#AE5757"/>
-<ellipse cx="630" cy="14.5" rx="6" ry="5.5" fill="#27B646"/>
-<ellipse cx="609" cy="14.5" rx="6" ry="5.5" fill="#3FABAE"/>
+<ellipse cx="652" cy="14.5" rx="6" ry="5.5" fill="#AE5757"/>
+<ellipse cx="614" cy="14.5" rx="6" ry="5.5" fill="#27B646"/>
+<ellipse cx="633" cy="14.5" rx="6" ry="5.5" fill="#FFB800"/>
 <defs>
 <filter id="filter0_b_101_15" x="-4" y="-4" width="681" height="504" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
