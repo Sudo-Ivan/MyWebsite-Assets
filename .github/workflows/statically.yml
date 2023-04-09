@@ -19,17 +19,15 @@ jobs:
         # Change the path to the directory where your images are located
         links=""
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
-          url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g')"
+          url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g' | sed 's/^refs\/heads\///g')"
           links="${links}\n- [$(basename $file)]($url)"
         done
         echo "$links" > links.md
 
     - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
         git add links.md
         git commit -m "Add links.md"
-        git push "https://github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
+        git push origin HEAD
