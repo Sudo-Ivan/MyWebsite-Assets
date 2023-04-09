@@ -17,7 +17,7 @@ jobs:
       run: |
         # Change the path to the directory where your images are located
         links=""
-        for file in images/**/*.png; do
+        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
           url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g')"
           links="${links}\n- [$(basename $file)]($url)"
         done
