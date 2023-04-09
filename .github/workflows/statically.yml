@@ -20,7 +20,7 @@ jobs:
         links=""
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
           url="https://cdn.statically.io/gh/${{ github.repository }}/main/$(echo $file | sed 's/images\//images\//g')"
-          links="${links}\n- [$(basename $file)]($url)"
+          links="${links}- $(basename $file)\n  $url\n"
         done
         echo "$links" > links.md
 
