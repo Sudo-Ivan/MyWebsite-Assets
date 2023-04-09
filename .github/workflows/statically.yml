@@ -10,18 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-      - name: Generate links
-        uses: w3f/relayer@v1.2.0
-        with:
-          shell: bash
-          command: |
-            # Change the path to the directory where your images are located
-            links=""
-            for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
-              url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g')"
-              links="${links}\n- [$(basename $file)]($url)"
-            done
-            echo "$links" > links.md
+    - name: Generate links
+      shell: bash
+      run: |
+        # Change the path to the directory where your images are located
+        links=""
+        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
+          url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g')"
+          links="${links}\n- [$(basename $file)]($url)"
+        done
+        echo "$links" > links.md
