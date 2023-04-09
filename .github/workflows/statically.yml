@@ -25,14 +25,3 @@ jobs:
             links="${links}\n- [$(basename $file)]($url)"
           done
           echo "$links" > links.md
-
-    - name: Update README.md
-      uses: dorny/paths-filter@v2.2.0
-      id: filter
-      with:
-        filters: |
-          README.md
-      run: |
-        # Append the links to the end of the README.md file
-        echo "\n## Static Links\n$(cat links.md)" >> README.md
-      if: steps.filter.outputs.paths != ''
