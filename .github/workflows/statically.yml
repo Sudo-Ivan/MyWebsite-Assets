@@ -19,7 +19,7 @@ jobs:
         # Change the path to the directory where your images are located
         links=""
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
-          url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.sha }}/$(echo $file | sed 's/images\//images\//g')"
+          url="https://cdn.statically.io/gh/${{ github.repository }}/main/$(echo $file | sed 's/images\//images\//g')"
           links="${links}\n- [$(basename $file)]($url)"
         done
         echo "$links" > links.md
