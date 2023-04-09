@@ -1,0 +1,35 @@
+name: Generate Static Links
+
+on:
+  push:
+    branches:
+      - main # Replace with your default branch name
+
+jobs:
+  generate-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Generate links
+      run: |
+        # Change the path to the directory where your images are located
+        links=""
+        for file in images/**/*.png; do
+          url="https://cdn.statically.io/gh/${{ github.repository }}/${{ github.ref }}/$(echo $file | sed 's/images\///g')"
+          links="${links}\n- [$(basename $file)]($url)"
+        done
+        echo "$links" > links.md
+
+    - name: Update README.md
+      uses: dorny/paths-filter@v2.2.0
+      id: filter
+      with:
+        filters: |
+          README.md
+      run: |
+        # Append the links to the end of the README.md file
+        echo "\n## Static Links\n$(cat links.md)" >> README.md
+      if: steps.filter.outputs.paths != ''
