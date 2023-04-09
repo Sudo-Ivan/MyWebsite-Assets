@@ -25,9 +25,11 @@ jobs:
         echo "$links" > links.md
 
     - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
         git add links.md
         git commit -m "Add links.md"
-        git push origin HEAD
+        git push "https://github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
