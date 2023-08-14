@@ -1,1 +1,79 @@
-- getmyweatherpreview.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/bots/getmyweatherpreview.png\n- datahinge.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/datahinge.png\n- discordlogo.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/discordlogo.png\n- ivanryanlogo.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/ivanryanlogo.png\n- ivanryanlogofavicon.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/ivanryanlogofavicon.png\n- ivanslabslogo.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/ivanslabslogo.png\n- nuxtlogo.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/nuxtlogo.png\n- titanosint.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/titanosint.png\n- TransparentShootingTrainerSim.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/shootertrainersim/TransparentShootingTrainerSim.png\n- WhiteBGShootingTrainerSim.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/shootertrainersim/WhiteBGShootingTrainerSim.png\n- logo_512.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/voltaichosting/logo_512.png\n- ilabs-w11-wallpaper1.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/wallpapers/windows/w11-dark/ilabs-w11-wallpaper1.png\n- ilabs-w11-wallpaper2.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/wallpapers/windows/w11-dark/ilabs-w11-wallpaper2.png\n- ilabs-w11-wallpaper3.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/wallpapers/windows/w11-dark/ilabs-w11-wallpaper3.png\n- paneldesign01.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/website/paneldesign01.png\n- pdfapphomepage.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/website/pdfapphomepage.png\n- pdficon01.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/website/pdficon01.png\n- pdfmergershowcase1.png\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/website/pdfmergershowcase1.png\n- original.jpg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/wallpapers/windows/w11-dark/original.jpg\n- *.jpeg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/**/*.jpeg\n- sectrlogo.svg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/bots/sectrlogo.svg\n- revolt-logo.svg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/revolt-logo.svg\n- sectrofficial.svg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/logo/sectrofficial.svg\n- CodeBlocks1.svg\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/website/CodeBlocks1.svg\n- *.webp\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/**/*.webp\n- logoicon.ico\n  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/voltaichosting/logoicon.ico\n
+- getmyweatherpreview.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/bots/getmyweatherpreview.png
+
+- datahinge.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/datahinge.png
+
+- discordlogo.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/discordlogo.png
+
+- ivanryanlogo.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanryanlogo.png
+
+- ivanryanlogofavicon.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanryanlogofavicon.png
+
+- ivanslabslogo.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanslabslogo.png
+
+- nuxtlogo.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/nuxtlogo.png
+
+- titanosint.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/titanosint.png
+
+- TransparentShootingTrainerSim.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png
+
+- WhiteBGShootingTrainerSim.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png
+
+- logo_512.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logo_512.png
+
+- ilabs-w11-wallpaper1.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper1.png
+
+- ilabs-w11-wallpaper2.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper2.png
+
+- ilabs-w11-wallpaper3.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper3.png
+
+- paneldesign01.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/paneldesign01.png
+
+- pdfapphomepage.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdfapphomepage.png
+
+- pdficon01.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdficon01.png
+
+- pdfmergershowcase1.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdfmergershowcase1.png
+
+- original.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/original.jpg
+
+- *.jpeg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.jpeg
+
+- sectrlogo.svg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/bots/sectrlogo.svg
+
+- revolt-logo.svg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/revolt-logo.svg
+
+- sectrofficial.svg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/sectrofficial.svg
+
+- CodeBlocks1.svg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/CodeBlocks1.svg
+
+- *.webp
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.webp
+
+- logoicon.ico
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logoicon.ico
+
+
