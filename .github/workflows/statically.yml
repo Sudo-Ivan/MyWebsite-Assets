@@ -3,7 +3,7 @@ name: Generate Static Links
 on:
   push:
     branches:
-      - main # Replace with your default branch name
+      - main
 
 jobs:
   generate-links:
@@ -16,10 +16,10 @@ jobs:
     - name: Generate links
       shell: bash
       run: |
-        # Change the path to the directory where your images are located
+        shopt -s globstar
         links=""
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
-          url="https://cdn.statically.io/gh/${{ github.repository }}/main/$(echo $file | sed 's/images\//images\//g')"
+          url="https://cdn.statically.io/gh/${{ github.repository }}/main/$(echo $file | sed 's/images\///g')"
           links="${links}- $(basename $file)\n  $url\n"
         done
         echo "$links" > links.md
