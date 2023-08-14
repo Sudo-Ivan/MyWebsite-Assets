@@ -19,15 +19,15 @@ jobs:
         shopt -s globstar
         links=""
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
-          url="https://cdn.statically.io/gh/${{ github.repository }}/main/$(echo $file | sed 's/images\///g')"
-          links="${links}- $(basename $file)\n  $url\n"
+          url="https://cdn.statically.io/gh/${{ github.repository }}/main/$file"
+          links="${links}- $(basename $file)\n  $url\n\n"
         done
-        echo "$links" > links.md
+        echo -e "$links" > links.md
 
     - name: Commit and push changes
       run: |
         git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.name "Statically Workflow"
         git add links.md
         git commit -m "Add links.md"
         git push origin HEAD
