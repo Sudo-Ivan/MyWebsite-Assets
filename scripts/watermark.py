@@ -38,7 +38,7 @@ def add_watermark(directory, watermark_path, position, margin):
             print(f"Watermark added to {filename}")
 
 # Example usage
-directory_path = "wallpapers"
+directory_path = "../images/wallpapers/linux"
 watermark_path = "watermark.png"
 position = input("Enter the watermark position (bottom-left / bottom-right) [default: bottom-right]: ") or "bottom-right"
 margin = int(input("Enter the margin or spacing value for the watermark [default: 10]: ") or 10)
