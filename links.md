@@ -22,6 +22,9 @@
 - titanosint.png
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/titanosint.png
 
+- customtextreplacer-preview01.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/customtextreplacer-preview01.png
+
 - simplepdfapp-preview01.png
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/simplepdfapp-preview01.png
 
