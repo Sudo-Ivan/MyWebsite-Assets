@@ -52,6 +52,87 @@
 - ilabs-w11-wallpaper3.png
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper3.png
 
+- my-cloud-setup-v1.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/my-setup/my-cloud-setup-v1.png
+
+- nix.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nix.png
+
+- nixpathmeme.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nixpathmeme.png
+
+- 2023-10-16_20-16.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/2023-10-16_20-16.png
+
+- overview1.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/overview1.png
+
+- senkaku-island-dispute-china-japan-256349105.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkaku-island-dispute-china-japan-256349105.png
+
+- senkaku-islands-mgrs.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkaku-islands-mgrs.png
+
+- senkakuislands-excalidraw1.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands-excalidraw1.png
+
+- senkakuislands.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands.png
+
+- Devvortex.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Devvortex.png
+
+- Hospital.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Hospital.png
+
+- Manager.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Manager.png
+
+- htbacademy.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/htbacademy.png
+
+- amu.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/amu.png
+
+- arch.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/arch.png
+
+- army.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/army.png
+
+- bash.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/bash.png
+
+- codeacademy.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/codeacademy.png
+
+- datacamp.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/datacamp.png
+
+- dotfile.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/dotfile.png
+
+- nix.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/nix.png
+
+- nvim.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/nvim.png
+
+- python.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/python.png
+
+- rust.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/rust.png
+
+- tailwind-logo.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/tailwind-logo.png
+
+- voltaic.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/voltaic.png
+
+- zig.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/zig.png
+
 - paneldesign01.png
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/paneldesign01.png
 
@@ -64,6 +145,30 @@
 - pdfmergershowcase1.png
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdfmergershowcase1.png
 
+- placeholder.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/placeholders/placeholder.png
+
+- ctre.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/ctre.png
+
+- datahinge.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/datahinge.png
+
+- getmyweatherpreview.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/getmyweatherpreview.png
+
+- pdficon01.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/pdficon01.png
+
+- titanosint.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/titanosint.png
+
+- frontend.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/frontend.png
+
+- rustdev.png
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/rustdev.png
+
 - wallpaper1.jpg
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper1.jpg
 
@@ -72,6 +177,27 @@
 
 - original.jpg
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/original.jpg
+
+- CompTIA-Linux-Plus-Preview.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/CompTIA-Linux-Plus-Preview.jpg
+
+- lpic1preview.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/lpic1preview.jpg
+
+- photo01.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/photo01.jpg
+
+- flight-logrs.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/flight-logrs.jpg
+
+- labswebsite.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/labswebsite.jpg
+
+- simplepdfapp.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/simplepdfapp.jpg
+
+- privacyservices.jpg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/privacyservices.jpg
 
 - *.jpeg
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.jpeg
@@ -88,8 +214,11 @@
 - CodeBlocks1.svg
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/CodeBlocks1.svg
 
-- *.webp
-  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.webp
+- cosmos.svg
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/cosmos.svg
+
+- default.webp
+  https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/authors/default.webp
 
 - logoicon.ico
   https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logoicon.ico
