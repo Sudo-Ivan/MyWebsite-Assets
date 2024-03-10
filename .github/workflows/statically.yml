@@ -1,5 +1,3 @@
-name: Generate Static Links
-
 on:
   push:
     branches:
@@ -17,10 +15,12 @@ jobs:
       shell: bash
       run: |
         shopt -s globstar
-        links=""
+        # Start the table with headers
+        links="| Name | URL |\n| ---- | --- |\n"
         for file in images/**/*.{png,jpg,jpeg,svg,webp,ico}; do
           url="https://cdn.statically.io/gh/${{ github.repository }}/main/$file"
-          links="${links}- $(basename $file)\n  $url\n\n"
+          # Append each file and URL as a row in the table
+          links="${links}| $(basename $file) | $url |\n"
         done
         echo -e "$links" > links.md
 
@@ -29,5 +29,5 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "Statically Workflow"
         git add links.md
-        git commit -m "Add links.md"
+        git commit -m "Add links.md in table format"
         git push origin HEAD
