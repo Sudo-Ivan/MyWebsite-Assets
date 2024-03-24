@@ -13,6 +13,7 @@
 | TransparentShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png |
 | WhiteBGShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png |
 | logo_512.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logo_512.png |
+| tactical-linux-tablets.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/tactical-linux-tablets.png |
 | wallpaper2.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper2.png |
 | wallpaper3.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper3.png |
 | ilabs-w11-wallpaper1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper1.png |
