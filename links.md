@@ -59,6 +59,8 @@
 | titanosint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/titanosint.png |
 | frontend.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/frontend.png |
 | rustdev.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/rustdev.png |
+| nixos-tactical-dark-1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tactical-dark-1920x1200.jpg |
+| nixos-tacticaltablets-logo1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tacticaltablets-logo1920x1200.jpg |
 | wallpaper1.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper1.jpg |
 | wallpaper4.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper4.jpg |
 | original.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/original.jpg |
