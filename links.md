@@ -73,6 +73,7 @@
 | privacyservices.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/privacyservices.jpg |
 | *.jpeg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.jpeg |
 | sectrlogo.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/bots/sectrlogo.svg |
+| calculator-svgrepo-com.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/calculator-svgrepo-com.svg |
 | revolt-logo.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/revolt-logo.svg |
 | sectrofficial.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/sectrofficial.svg |
 | CodeBlocks1.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/CodeBlocks1.svg |
