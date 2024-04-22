@@ -14,6 +14,7 @@
 | simplepdfapp-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/simplepdfapp-preview01.png |
 | TransparentShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png |
 | WhiteBGShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png |
+| tcc.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png |
 | logo_512.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logo_512.png |
 | tactical-linux-tablets.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/tactical-linux-tablets.png |
 | tactical-linux-tablets1920x1200.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/tactical-linux-tablets1920x1200.png |
@@ -61,6 +62,7 @@
 | titanosint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/titanosint.png |
 | frontend.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/frontend.png |
 | rustdev.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/rustdev.png |
+| IMG_3710.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg |
 | nixos-tactical-dark-1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tactical-dark-1920x1200.jpg |
 | nixos-tacticaltablets-logo1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tacticaltablets-logo1920x1200.jpg |
 | wallpaper1.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/wallpaper1.jpg |
