@@ -16,6 +16,7 @@
 | simplepdfapp-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/simplepdfapp-preview01.png |
 | TransparentShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png |
 | WhiteBGShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png |
+| tacnix-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tacnix/tacnix-preview01.png |
 | tacnix-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tacnix/tacnix-preview01.png |
 | tacnix-preview02.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tacnix/tacnix-preview02.png |
 | tcc.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png |
