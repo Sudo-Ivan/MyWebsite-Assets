@@ -87,6 +87,7 @@
 | red-flag-svgrepo-com.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/red-flag-svgrepo-com.svg |
 | revolt-logo.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/revolt-logo.svg |
 | sectrofficial.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/sectrofficial.svg |
+| quad4.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/quad4.svg |
 | CodeBlocks1.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/CodeBlocks1.svg |
 | cosmos.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/cosmos.svg |
 | default.webp | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/authors/default.webp |
