@@ -28,6 +28,11 @@
 | ilabs-w11-wallpaper1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper1.png |
 | ilabs-w11-wallpaper2.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper2.png |
 | ilabs-w11-wallpaper3.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/windows/w11-dark/ilabs-w11-wallpaper3.png |
+| address-book-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/address-book-svgrepo-com.png |
+| ai-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/ai-svgrepo-com.png |
+| brilliant-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/brilliant-svgrepo-com.png |
+| code-file-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/code-file-svgrepo-com.png |
+| code-lock-protect.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/code-lock-protect.png |
 | my-cloud-setup-v1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/my-setup/my-cloud-setup-v1.png |
 | nix.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nix.png |
 | nixpathmeme.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nixpathmeme.png |
@@ -65,8 +70,10 @@
 | getmyweatherpreview.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/getmyweatherpreview.png |
 | pdficon01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/pdficon01.png |
 | titanosint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/project-logos/titanosint.png |
+| server-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/server-svgrepo-com.png |
 | frontend.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/frontend.png |
 | rustdev.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/rustdev.png |
+| wifi-monitor-pro-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/wifi-monitor-pro-svgrepo-com.png |
 | IMG_3710.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg |
 | nixos-tactical-dark-1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tactical-dark-1920x1200.jpg |
 | nixos-tacticaltablets-logo1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tacticaltablets-logo1920x1200.jpg |
