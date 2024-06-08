@@ -44,6 +44,7 @@
 | senkakuislands.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands.png |
 | 2024-06-08_14-09.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/2024-06-08_14-09.png |
 | Djibouti001.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/Djibouti001.png |
+| Sentinel-2.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/Sentinel-2.png |
 | WestMauiCenter01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/WestMauiCenter01.png |
 | googleearthpro.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/googleearthpro.png |
 | maparmy.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/maparmy.png |
