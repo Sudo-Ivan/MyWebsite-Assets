@@ -107,4 +107,6 @@
 | cosmos.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/cosmos.svg |
 | default.webp | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/authors/default.webp |
 | logoicon.ico | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logoicon.ico |
+| eos-timelapse01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eos-timelapse01.gif |
+| eoslv-compare01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eoslv-compare01.gif |
 
