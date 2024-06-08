@@ -43,6 +43,7 @@
 | senkakuislands-excalidraw1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands-excalidraw1.png |
 | senkakuislands.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands.png |
 | 2024-06-08_14-09.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/2024-06-08_14-09.png |
+| Djibouti001.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/Djibouti001.png |
 | skyfipreview.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/skyfipreview.png |
 | Devvortex.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Devvortex.png |
 | Hospital.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Hospital.png |
