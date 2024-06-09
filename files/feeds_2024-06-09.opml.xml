@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sun, 09 Jun 2024 00:38:50 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="CVE">
+      <outline text="ZDI: Published Advisories" type="rss" xmlUrl="https://www.zerodayinitiative.com/rss/published/" htmlUrl="http://www.zerodayinitiative.com/advisories/published/" description="The following is a list of publicly disclosed vulnerabilities discovered by&#10;                   Zero Day Initiative researchers. While the affected vendor is working on a patch for these&#10;                   vulnerabilities, Trend Micro customers are protected from exploitation by security filters&#10;                   delivered ahead of public disclosure. All security vulnerabilities that are acquired by the&#10;                   Zero Day Initiative are handled according to the ZDI Disclosure Policy."/>
+    </outline>
+    <outline text="Cyber Threat Intelligence Bot">
+      <outline text="OTX Bot" type="rss" xmlUrl="https://social.raytec.co/@techbot.rss" htmlUrl="https://social.raytec.co/@techbot" description="Public posts from @techbot@social.raytec.co"/>
+    </outline>
+    <outline text="Cybersecurity">
+      <outline text="All CISA Advisories" type="rss" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml" htmlUrl="https://www.cisa.gov/" description=""/>
+      <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/" description="BleepingComputer - All Stories"/>
+      <outline text="Cybersecurity Dive - Latest News" type="rss" xmlUrl="https://www.cybersecuritydive.com/feeds/news/" htmlUrl="https://www.cybersecuritydive.com/news/" description="Cybersecurity News"/>
+      <outline text="Cybersecurity News" type="rss" xmlUrl="https://www.securitymagazine.com/rss/topic/2236" htmlUrl="https://www.securitymagazine.com/rss/2236" description="Latest news on cybersecurity, including data breaches, security vulnerabilities, cyberattacks, malware and phishing attacks, data privacy and compliance, cybersecurity conferences and more."/>
+      <outline text="News and Events Feed by Topic" type="rss" xmlUrl="https://www.nist.gov/news-events/cybersecurity/rss.xml" htmlUrl="https://www.nist.gov/topics" description=""/>
+      <outline text="NIST News" type="rss" xmlUrl="https://www.nist.gov/news-events/news/rss.xml" htmlUrl="https://www.nist.gov/news-events/news" description=""/>
+      <outline text="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/" description="Cybersecurity News, Insights &amp; Analysis"/>
+      <outline text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/" description="Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com"/>
+    </outline>
+    <outline text="General News">
+      <outline text="All Insider Content" type="rss" xmlUrl="https://feeds.insider.com/custom/all" htmlUrl="https://feeds.insider.com/custom/all" description="All Insider Content"/>
+      <outline text="Ars Technica - All content" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" description="All Ars Technica stories"/>
+      <outline text="BBC News - World" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - World"/>
+      <outline text="CNN.com - RSS Channel - World" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss" htmlUrl="https://www.cnn.com/world/index.html" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+      <outline text="Home - CBSNews.com" type="rss" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://www.cbsnews.com/" description="Headlines From CBSNews.com"/>
+      <outline text="Latest &amp; Breaking News on Fox News" type="rss" xmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml" htmlUrl="https://www.foxnews.com/" description="Discover the latest breaking news feed with Fox. Find out what the latest news is and read about the latest news happening today."/>
+      <outline text="News : NPR" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" description="NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events."/>
+      <outline text="NYT &gt; Top Stories" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/" description=""/>
+      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description="Startup and Technology News"/>
+      <outline text="The Hill News" type="rss" xmlUrl="https://thehill.com/feed/?feed=partnerfeed-news-feed&amp;format=rss" htmlUrl="https://thehill.com/" description="Unbiased Politics News"/>
+      <outline text="The Verge -  All Posts" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" description=""/>
+      <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" description="The latest from www.wired.com"/>
+    </outline>
+    <outline text="IT Channels (Odysee)">
+      <outline text="David Bombal on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@davidbombal:0" htmlUrl="https://odysee.com/@davidbombal:0" description="Want to learn about IT? Want to get ahead in your career?  Well, this is the right place! &lt;br&gt;&lt;br&gt;On this channel, I discuss Python, Ethical Hacking, Networking, Network Automation, CCNA, Virtualization and other IT related topics.&lt;br&gt;   &lt;br&gt;This YouTube channel has new videos every week! Subscribe for technical, detailed, no fluff content.&lt;br&gt;&lt;br&gt;Are you interested in sponsoring me? Email: sponsor@davidbombal.com &lt;br&gt;&lt;br&gt;David’s details:&lt;br&gt;Discord: https://discord.com/invite/usKSyzb&lt;br&gt;Twitter: https://www.twitter.com/davidbombal &lt;br&gt;Instagram: https://www.instagram.com/davidbombal &lt;br&gt;LinkedIn: https://www.linkedin.com/in/davidbombal &lt;br&gt;Facebook: https://www.facebook.com/davidbombal.co &lt;br&gt;Website: http://www.davidbombal.com  &lt;br&gt;YouTube: https://www.youtube.com/davidbombal &lt;br&gt;&lt;br&gt;All the best!&lt;br&gt;David"/>
+      <outline text="John Hammond on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@JohnHammond:b" htmlUrl="https://odysee.com/@JohnHammond:b" description="Free cybersecurity education, without the fluff."/>
+      <outline text="Mental Outlaw on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AlphaNerd:8" htmlUrl="https://based.win/" description="Everything You're looking for is at https://based.win"/>
+    </outline>
+    <outline text="IT Youtube">
+      <outline text="LiveOverflow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w" description=""/>
+      <outline text="Low Level Learning" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg" htmlUrl="https://www.youtube.com/channel/UC6biysICWOJ-C3P4Tyeggzg" description=""/>
+      <outline text="The PC Security Channel" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKGe7fZ_S788Jaspxg-_5Sg" htmlUrl="https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg" description=""/>
+    </outline>
+    <outline text="Leaks">
+      <outline text="All - WikiLeaks" type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=WikiLeaksBridge&amp;category=-Leaks-&amp;teaser=on&amp;format=Atom" htmlUrl="https://wikileaks.org/-Leaks-.html" description=""/>
+    </outline>
+    <outline text="Lemmy">
+      <outline text="Lemmy.world - news" type="rss" xmlUrl="https://lemmy.world/feeds/c/news.xml?sort=Active" htmlUrl="https://lemmy.world/c/news" description="&lt;p&gt;Welcome to the News community!&lt;/p&gt;&#10;&lt;p&gt;Rules:&lt;/p&gt;&#10;&lt;details&gt;&lt;summary&gt;1. Be civil&lt;/summary&gt;&lt;p&gt;___&#10;Attack the argument, not the person. No racism/sexism/bigotry. Good faith argumentation only. Trolling is uncivil and is grounds for removal and/or a community ban.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;2. All posts should contain a source (url) that is as reliable and unbiased as possible and must only contain one link.&lt;/summary&gt;&lt;p&gt;___&#10;Obvious right or left wing sources will be removed at the mods discretion. We have an actively updated blocklist, which you can see here: &lt;a href=&quot;https://lemmy.world/post/2246130&quot;&gt;lemmy.world/post/2246130&lt;/a&gt; if you feel like any website is missing, contact the mods. Supporting links can be added in comments or posted seperately but not to the post body.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;3. No bots, spam or self-promotion.&lt;/summary&gt;&lt;p&gt;___&#10;Only approved bots, which follow the guidelines for bots set by the instance, are allowed.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;4. Post titles should be the same as the article used as source.&lt;/summary&gt;&lt;p&gt;___&#10;Posts which titles don’t match the source won’t be removed, but the autoMod will notify you, and if your title misrepresents the original article, the post will be deleted. If the site changed their headline, the bot might still contact you, just ignore it, we won’t delete your post.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;5. Only recent news is allowed.&lt;/summary&gt;&lt;p&gt;___&#10;Posts must be news from the most recent 30 days.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;6. All posts must be news articles.&lt;/summary&gt;&lt;p&gt;___&#10;No opinion pieces, Listicles, editorials or celebrity gossip is allowed. All posts will be judged on a case-by-case basis.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;7. No duplicate posts.&lt;/summary&gt;&lt;p&gt;___&#10;If a source you used was already posted by someone else, the autoMod will leave a message. Please remove your post if the autoMod is correct. If the post that matches your post is very old, we refer you to rule 5.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;8. Misinformation is prohibited.&lt;/summary&gt;&lt;p&gt;___&#10;Misinformation / propaganda is strictly prohibited. Any comment or post containing or linking to misinformation will be removed. If you feel that your post has been removed in error, credible sources must be provided.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;9. No link shorteners.&lt;/summary&gt;&lt;p&gt;___&#10;The auto mod will contact you if a link shortener is detected, please delete your post if they are right.&#10;___&#10;&lt;/p&gt;&lt;/details&gt;&#10;&lt;details&gt;&lt;summary&gt;10. Don't copy entire article in your post body&lt;/summary&gt;&lt;p&gt;___&#10;For copyright reasons, you are not allowed to copy an entire article into your post body. This is an instance wide rule, that is strictly enforced in this community.&#10;&lt;/p&gt;&lt;/details&gt;"/>
+      <outline text="Lemmy.world - technology" type="rss" xmlUrl="https://lemmy.world/feeds/c/technology.xml?sort=Active" htmlUrl="https://lemmy.world/c/technology" description="&lt;p&gt;This is a &lt;a href=&quot;https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0NmhuODNib3d3Nzg0OHU2bTFqMXAzNW42Y2JsOTVmenNsNG8ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CDHTqbmnGZyxKo/giphy.gif&quot;&gt;most excellent&lt;/a&gt; place for technology news and articles.&lt;/p&gt;&#10;&lt;hr&gt;&#10;&lt;h2&gt;Our Rules&lt;/h2&gt;&#10;&lt;hr&gt;&#10;&lt;ol&gt;&#10;&lt;li&gt;Follow the &lt;a href=&quot;https://mastodon.world/about&quot;&gt;lemmy.world rules.&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;Only tech related content.&lt;/li&gt;&#10;&lt;li&gt;Be &lt;a href=&quot;https://www.youtube.com/watch?v=rph_1DODXDU&quot;&gt;excellent to each another!&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;Mod approved content bots can post up to 10 articles per day.&lt;/li&gt;&#10;&lt;li&gt;Threads asking for personal tech support may be deleted.&lt;/li&gt;&#10;&lt;li&gt;Politics threads may be removed.&lt;/li&gt;&#10;&lt;li&gt;No memes allowed as posts, OK to post as comments.&lt;/li&gt;&#10;&lt;li&gt;Only approved bots from the list below, to ask if your bot can be added please contact us.&lt;/li&gt;&#10;&lt;li&gt;Check for duplicates before posting, duplicates may be removed&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&lt;hr&gt;&#10;&lt;h2&gt;Approved Bots&lt;/h2&gt;&#10;&lt;hr&gt;&#10;&lt;ul&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://lemmy.world/u/L4s&quot;&gt;@L4s@lemmy.world&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://lemmings.world/u/autotldr&quot;&gt;@autotldr@lemmings.world&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://feddit.rocks/u/PipedLinkBot&quot;&gt;@PipedLinkBot@feddit.rocks&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://lemmy.world/u/wikibot&quot;&gt;@wikibot@lemmy.world&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;"/>
+    </outline>
+    <outline text="Military">
+      <outline text="- Task &amp; Purpose" type="rss" xmlUrl="https://taskandpurpose.com/feed/" htmlUrl="https://taskandpurpose.com/" description="News, culture, and analysis by and for the military community."/>
+      <outline text="C4ISRNet AI" type="rss" xmlUrl="https://www.c4isrnet.com/arc/outboundfeeds/rss/category/artificial-intelligence/?outputType=xml" htmlUrl="https://www.c4isrnet.com/" description="C4ISRNet News Feed"/>
+      <outline text="C4ISRNet Cyber" type="rss" xmlUrl="https://www.c4isrnet.com/arc/outboundfeeds/rss/category/cyber/?outputType=xml" htmlUrl="https://www.c4isrnet.com/" description="C4ISRNet News Feed"/>
+      <outline text="C4ISRNet EW" type="rss" xmlUrl="https://www.c4isrnet.com/arc/outboundfeeds/rss/category/electronic-warfare/?outputType=xml" htmlUrl="https://www.c4isrnet.com/" description="C4ISRNet News Feed"/>
+      <outline text="C4ISRNet Unamnned" type="rss" xmlUrl="https://www.c4isrnet.com/arc/outboundfeeds/rss/category/unmanned/?outputType=xml" htmlUrl="https://www.c4isrnet.com/" description="C4ISRNet News Feed"/>
+      <outline text="Defense.gov Explore Feed" type="rss" xmlUrl="https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=800&amp;Site=945&amp;max=10" htmlUrl="https://www.defense.gov/explore" description="Stories from around the Department of Defense."/>
+      <outline text="Defense News" type="rss" xmlUrl="https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml" htmlUrl="https://www.defensenews.com/" description="Defense News News Feed"/>
+      <outline text="Defense One - All Content" type="rss" xmlUrl="https://www.defenseone.com/rss/all/" htmlUrl="https://www.defenseone.com/" description="Defense One provides news, analysis, and ideas about the future of national security to defense and industry leaders, innovative decision-makers, and informed citizens."/>
+      <outline text="DefenseScoop" type="rss" xmlUrl="https://defensescoop.com/feed/" htmlUrl="https://defensescoop.com/" description="DefenseScoop"/>
+      <outline text="Janes news RSS" type="rss" xmlUrl="https://www.janes.com/feeds/news" htmlUrl="https://www.janes.com/" description="Janes news RSS feed."/>
+      <outline text="Military Times" type="rss" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/news/?outputType=xml" htmlUrl="https://www.militarytimes.com/" description="Military Times News Feed"/>
+      <outline text="You searched for -[jdsupra - Breaking Defense" type="rss" xmlUrl="http://feeds.feedburner.com/BreakingDefense/" htmlUrl="https://breakingdefense.com/" description="Defense industry news, analysis and commentary"/>
+    </outline>
+    <outline text="Programming Channels">
+      <outline text="Beyond Fireship" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Xd-TjJByJyK2w1zNwY0zQ" htmlUrl="https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ" description=""/>
+      <outline text="Coderized" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrsLPlwxUInDoNubOP85EWQ" htmlUrl="https://www.youtube.com/channel/UCrsLPlwxUInDoNubOP85EWQ" description=""/>
+      <outline text="Fireship" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA" description=""/>
+      <outline text="Lawrence Systems" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ" htmlUrl="https://www.youtube.com/channel/UCHkYOD-3fZbuGhwsADBd9ZQ" description=""/>
+      <outline text="No Boilerplate" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA" htmlUrl="https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA" description=""/>
+      <outline text="ThePrimeagen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw" htmlUrl="https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw" description=""/>
+      <outline text="ThePrimeTime" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ" htmlUrl="https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ" description=""/>
+    </outline>
+    <outline text="Programmming">
+      <outline text="News on Zig Programming Language" type="rss" xmlUrl="https://ziglang.org/news/index.xml" htmlUrl="https://ziglang.org/news/" description="Recent content in News on Zig Programming Language"/>
+      <outline text="Python Insider" type="rss" xmlUrl="https://blog.python.org/feeds/posts/default?alt=rss" htmlUrl="https://pythoninsider.blogspot.com/" description="Python core development news and information."/>
+      <outline text="Rust Blog" type="rss" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/" description="Empowering everyone to build reliable and efficient software."/>
+    </outline>
+    <outline text="S2 Underground">
+      <outline text="S2 Underground" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTq1zHztiV69Ur8t6jco4CQ" htmlUrl="https://www.youtube.com/channel/UCTq1zHztiV69Ur8t6jco4CQ" description=""/>
+    </outline>
+    <outline text="SATCOM">
+      <outline text="Air &amp; Space Forces Magazine" type="rss" xmlUrl="https://www.airandspaceforces.com/feed/" htmlUrl="https://www.airandspaceforces.com/" description="Airman for Life"/>
+      <outline text="Satellites News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/space_time/satellites.xml" htmlUrl="https://www.sciencedaily.com/news/space_time/satellites/" description="Satellites.  Read science articles on every type of satellite, from the new infrared satellite to micro-satellites. Free satellite pictures too."/>
+      <outline text="SatNews" type="rss" xmlUrl="https://news.satnews.com/feed/" htmlUrl="https://news.satnews.com/" description=""/>
+    </outline>
+    <outline text="Science">
+      <outline text="Advanced Science News" type="rss" xmlUrl="https://www.advancedsciencenews.com/feed/" htmlUrl="https://www.advancedsciencenews.com/" description="The latest research covering technology, healthcare, sustainability, and more!"/>
+      <outline text="Livescience" type="rss" xmlUrl="https://www.livescience.com/feeds/all" htmlUrl="https://www.livescience.com/feeds/all" description=""/>
+      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine."/>
+      <outline text="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org/" description="INDEPENDENT JOURNALISM SINCE 1921"/>
+    </outline>
+    <outline text="Security Podcasts">
+      <outline text="OVERMATCH - The Kevin Owens Podcast" type="rss" xmlUrl="https://anchor.fm/s/cde35620/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/kevin-owens04" description="Experience is the best teacher: &#10;&#10;A podcast about resilience, training, and mindset told through stories and lessons learned from retired Green Beret Kevin Owens.  Support this podcast: &lt;a href=&quot;https://podcasters.spotify.com/pod/show/kevin-owens04/support&quot; rel=&quot;payment&quot;&gt;https://podcasters.spotify.com/pod/show/kevin-owens04/support&lt;/a&gt;"/>
+      <outline text="Risky Business" type="rss" xmlUrl="https://risky.biz/rss.xml" htmlUrl="https://risky.biz/" description="It's a jungle out there"/>
+      <outline text="The Privacy, Security, &amp; OSINT Show" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" htmlUrl="https://soundcloud.com/user-98066669" description="Show status update: https://inteltechniques.com/blog/2023/11/20/my-irish-exit/"/>
+    </outline>
+    <outline text="Security Researches, Hackers, Malware Devs">
+      <outline text="0xor0ne" type="rss" xmlUrl="https://infosec.exchange/@0xor0ne.rss" htmlUrl="https://infosec.exchange/@0xor0ne" description="Public posts from @0xor0ne@infosec.exchange"/>
+      <outline text="IntelTechniques Blog" type="rss" xmlUrl="https://inteltechniques.com/blog/feed/" htmlUrl="https://inteltechniques.com/blog" description=""/>
+      <outline text="Ivans Other Website Blog" type="rss" xmlUrl="https://other.ivanryan.dev/blog/rss.xml" htmlUrl="https://other.ivanryan.dev/blog" description="Ivans Other Website Blog"/>
+      <outline text="Marco Ramilli Web Corner" type="rss" xmlUrl="https://marcoramilli.com/feed/" htmlUrl="https://marcoramilli.com/" description="Marco Ramilli: cyber security expert, digital entrepreneur and writer"/>
+      <outline text="Offensive OSINT" type="rss" xmlUrl="https://www.offensiveosint.io/rss/" htmlUrl="https://www.offensiveosint.io/" description="OSINT researcher doing cyber security art brut"/>
+    </outline>
+    <outline text="Tech Journalists">
+      <outline text="CryptoBeat - Naomi Brockwell TV" type="rss" xmlUrl="https://www.nbtv.media/cryptobeat?format=rss" htmlUrl="https://www.nbtv.media/cryptobeat/" description=""/>
+    </outline>
+    <outline text="Telegram">
+      <outline text="🔻Warfare Analysis NEWS (@warfareanalysis) - Telegram" type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=TelegramBridge&amp;username=%40warfareanalysis&amp;format=Atom" htmlUrl="https://t.me/s/warfareanalysis" description=""/>
+    </outline>
+    <outline text="Texas News">
+      <outline text="ABC13 RSS Feed" type="rss" xmlUrl="https://abc13.com/feed/" htmlUrl="https://abc13.com/feed" description="Keep up with news from your local ABC station."/>
+      <outline text="NBC 5 Dallas-Fort Worth" type="rss" xmlUrl="https://www.nbcdfw.com/?rss=y" htmlUrl="https://www.nbcdfw.com/" description=""/>
+    </outline>
+    <outline text="Threat Research">
+      <outline text="Arctic Wolf" type="rss" xmlUrl="https://arcticwolf.com/feed/" htmlUrl="https://arcticwolf.com/" description="The Leaders in Security Operations"/>
+      <outline text="Check Point Research Publications Archives - Check Point Research" type="rss" xmlUrl="https://research.checkpoint.com/category/threat-research/feed/" htmlUrl="https://research.checkpoint.com/category/threat-research/" description="Latest Research by our Team"/>
+      <outline text="darkreading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com/" description="Public RSS feed"/>
+      <outline text="Exodus Intelligence" type="rss" xmlUrl="https://blog.exodusintel.com/feed/" htmlUrl="https://blog.exodusintel.com/" description=""/>
+      <outline text="Graham Cluley" type="rss" xmlUrl="https://grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com/" description="Cybersecurity expert &amp; keynote speaker"/>
+      <outline text="Malwarebytes Labs" type="rss" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml" htmlUrl="https://www.malwarebytes.com/" description="Cyber Security Software &amp; Anti-Malware"/>
+      <outline text="Recent Commits to awesome-threat-intelligence:master" type="rss" xmlUrl="https://github.com/hslatman/awesome-threat-intelligence/commits/master.atom" htmlUrl="https://github.com/hslatman/awesome-threat-intelligence/commits/master" description=""/>
+      <outline text="SANS Internet Storm Center, InfoCON: green" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml" htmlUrl="https://isc.sans.edu/" description="SANS Internet Storm Center - Cooperative Cyber Security Monitor"/>
+      <outline text="SentinelLabs - We are hunters, reversers, exploit developers, and tinkerers shedding light on the world of malware, exploits, APTs, and cybercrime across all platforms." type="rss" xmlUrl="https://www.sentinelone.com/labs/feed/" htmlUrl="https://www.sentinelone.com/labs/" description="Next Generation Endpoint Security"/>
+      <outline text="SentinelOne" type="rss" xmlUrl="https://www.sentinelone.com/feed/" htmlUrl="https://www.sentinelone.com/" description="Next Generation Endpoint Security"/>
+      <outline text="Sophos News" type="rss" xmlUrl="https://news.sophos.com/en-us/feed/" htmlUrl="https://news.sophos.com/en-us/" description="The Sophos Blog"/>
+      <outline text="The Cyber Express" type="rss" xmlUrl="https://thecyberexpress.com/feed/" htmlUrl="https://thecyberexpress.com/" description="Trending Cybersecurity News, Updates, Magazine and More."/>
+      <outline text="Threat Intelligence" type="rss" xmlUrl="https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/" htmlUrl="https://cloud.google.com/blog/topics/threat-intelligence/" description="Threat Intelligence"/>
+      <outline text="Threat Research – Security Intelligence" type="rss" xmlUrl="https://securityintelligence.com/category/x-force/feed/" htmlUrl="https://securityintelligence.com/" description="Analysis and Insight for Information Security Professionals"/>
+      <outline text="WeLiveSecurity" type="rss" xmlUrl="https://feeds.feedburner.com/eset/blog" htmlUrl="https://www.welivesecurity.com/" description="WeLiveSecurity"/>
+    </outline>
+    <outline text="URL DNA">
+      <outline text="urlDNA.io" type="rss" xmlUrl="https://infosec.exchange/@urldna.rss" htmlUrl="https://infosec.exchange/@urldna" description="Public posts from @urldna@infosec.exchange"/>
+    </outline>
+    <outline text="Weather">
+      <outline text="National Weather Service" type="rss" xmlUrl="https://www.weather.gov/rss_page.php?site_name=nws" htmlUrl="http://www.weather.gov/" description="Latest News Headlines"/>
+    </outline>
+    <outline text="r/Privacy">
+      <outline text="Privacy in the digital age" type="rss" xmlUrl="https://www.reddit.com/r/privacy.rss" htmlUrl="https://www.reddit.com/r/privacy" description="Privacy in the digital age (this is not a SECURITY subreddit, and PUBLIC data, closed source, etc is off-topic)"/>
+    </outline>
+    <outline text="r/Technology">
+      <outline text="/r/Technology" type="rss" xmlUrl="https://www.reddit.com/r/technology.rss" htmlUrl="https://www.reddit.com/r/technology" description="Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues."/>
+    </outline>
+    <outline text="self-hosting">
+      <outline text="Lemmy.world - selfhosted" type="rss" xmlUrl="https://lemmy.world/feeds/c/selfhosted.xml?sort=Active" htmlUrl="https://lemmy.world/c/selfhosted" description="&lt;p&gt;A place to share alternatives to popular online services that can be self-hosted without giving up privacy or locking you into a service you don’t control.&lt;/p&gt;&#10;&lt;p&gt;Rules:&lt;/p&gt;&#10;&lt;ol&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;Be civil: we’re here to support and learn from one another. Insults won’t be tolerated. Flame wars are frowned upon.&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;No spam posting.&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;Posts have to be centered around self-hosting. There are other communities for discussing hardware or home computing. If it’s not obvious why your post topic revolves around selfhosting, please include details to make it clear.&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;Don’t duplicate the full text of your  blog or github here. Just post the link for folks to click.&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;Submission headline should match the article title (don’t cherry-pick information from the title to fit your agenda).&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;li&gt;&#10;&lt;p&gt;No trolling.&lt;/p&gt;&#10;&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&lt;p&gt;Resources:&lt;/p&gt;&#10;&lt;ul&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://github.com/awesome-selfhosted/awesome-selfhosted&quot;&gt;awesome-selfhosted software&lt;/a&gt;&lt;/li&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://github.com/awesome-foss/awesome-sysadmin&quot;&gt;awesome-sysadmin&lt;/a&gt; resources&lt;/li&gt;&#10;&lt;li&gt;&lt;a href=&quot;https://selfhosted.show/&quot;&gt;Self-Hosted Podcast from Jupiter Broadcasting&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;blockquote&gt;&#10;&lt;p&gt;Any issues on the community? Report it using the report flag.&lt;/p&gt;&#10;&lt;/blockquote&gt;&#10;&lt;blockquote&gt;&#10;&lt;p&gt;Questions? DM the mods!&lt;/p&gt;&#10;&lt;/blockquote&gt;"/>
+    </outline>
+  </body>
+</opml>

@@ -17,7 +17,7 @@ jobs:
         shopt -s globstar
         # Start the table with headers
         links="| Name | URL |\n| ---- | --- |\n"
-        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico,gif,pdf}; do
+        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico,gif,pdf,xml}; do
           url="https://cdn.statically.io/gh/${{ github.repository }}/main/$file"
           # Append each file and URL as a row in the table
           links="${links}| $(basename $file) | $url |\n"
@@ -26,7 +26,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.email "you@example.com"
+        git config --global user.email "statically@statically.com"
         git config --global user.name "Statically Workflow"
         git add links.md
         git commit -m "Add links.md in table format"
