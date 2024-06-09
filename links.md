@@ -50,6 +50,7 @@
 | maparmy.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/maparmy.png |
 | overpassturbo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/overpassturbo.png |
 | skyfipreview.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/skyfipreview.png |
+| install-wazuh.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/wazuh/install-wazuh.png |
 | Devvortex.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Devvortex.png |
 | Hospital.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Hospital.png |
 | Manager.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/htb/Manager.png |
