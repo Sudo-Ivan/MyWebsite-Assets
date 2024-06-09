@@ -48,6 +48,7 @@
 | WestMauiCenter01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/WestMauiCenter01.png |
 | googleearthpro.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/googleearthpro.png |
 | maparmy.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/maparmy.png |
+| openaerialmap.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/openaerialmap.png |
 | overpassturbo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/overpassturbo.png |
 | skyfipreview.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/skyfipreview.png |
 | install-wazuh.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/wazuh/install-wazuh.png |
