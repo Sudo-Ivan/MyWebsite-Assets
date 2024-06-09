@@ -111,4 +111,5 @@
 | eos-timelapse01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eos-timelapse01.gif |
 | eoslv-compare01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eoslv-compare01.gif |
 | *.pdf | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.pdf |
+| *.xml | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/**/*.xml |
 
