@@ -17,7 +17,7 @@ jobs:
         shopt -s globstar
         # Start the table with headers
         links="| Name | URL |\n| ---- | --- |\n"
-        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico,gif, pdf}; do
+        for file in images/**/*.{png,jpg,jpeg,svg,webp,ico,gif,pdf}; do
           url="https://cdn.statically.io/gh/${{ github.repository }}/main/$file"
           # Append each file and URL as a row in the table
           links="${links}| $(basename $file) | $url |\n"
