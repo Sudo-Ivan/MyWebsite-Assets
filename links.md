@@ -17,6 +17,7 @@
 | DTAC-tui.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC-tui.png |
 | DTAC.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC.png |
 | dtac-image.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/dtac-image.png |
+| hero-image.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/hero-image.png |
 | quad4-osint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/quad4-osint.png |
 | TransparentShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png |
 | WhiteBGShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png |
