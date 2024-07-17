@@ -14,6 +14,10 @@
 | simplepdfapp.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/pdfapp/simplepdfapp.png |
 | customtextreplacer-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/customtextreplacer-preview01.png |
 | simplepdfapp-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/simplepdfapp-preview01.png |
+| DTAC-tui.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC-tui.png |
+| DTAC.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC.png |
+| dtac-image.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/dtac-image.png |
+| quad4-osint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/quad4-osint.png |
 | TransparentShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/TransparentShootingTrainerSim.png |
 | WhiteBGShootingTrainerSim.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/shootertrainersim/WhiteBGShootingTrainerSim.png |
 | tacnix-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tacnix/tacnix-preview01.png |
