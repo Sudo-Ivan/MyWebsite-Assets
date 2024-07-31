@@ -38,6 +38,7 @@
 | brilliant-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/brilliant-svgrepo-com.png |
 | code-file-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/code-file-svgrepo-com.png |
 | code-lock-protect.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/code-lock-protect.png |
+| acoustic-drone-detection.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/acoustic-drone-detection/acoustic-drone-detection.png |
 | my-cloud-setup-v1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/my-setup/my-cloud-setup-v1.png |
 | nix.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nix.png |
 | nixpathmeme.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/nixos/nixpathmeme.png |
