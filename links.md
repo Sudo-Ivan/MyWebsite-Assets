@@ -47,6 +47,7 @@
 | senkaku-islands-mgrs.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkaku-islands-mgrs.png |
 | senkakuislands-excalidraw1.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands-excalidraw1.png |
 | senkakuislands.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/pacific-osint-report-01/senkakuislands.png |
+| ATAKsecurityreport.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/security-reports/ATAKsecurityreport.png |
 | 2024-06-08_14-09.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/2024-06-08_14-09.png |
 | Djibouti001.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/Djibouti001.png |
 | Sentinel-2.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/Sentinel-2.png |
