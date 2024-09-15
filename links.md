@@ -26,6 +26,7 @@
 | tacnix-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tacnix/tacnix-preview01.png |
 | tacnix-preview02.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tacnix/tacnix-preview02.png |
 | tcc.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png |
+| radiovoicecloning.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voice-clone-tool/radiovoicecloning.png |
 | logo_512.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logo_512.png |
 | tactical-linux-tablets.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/tactical-linux-tablets.png |
 | tactical-linux-tablets1920x1200.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/tactical-linux-tablets1920x1200.png |
