@@ -1,6 +1,7 @@
 | Name | URL |
 | ---- | --- |
 | getmyweatherpreview.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/bots/getmyweatherpreview.png |
+| acoustic-drone-detection.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/acoustic-drone-detection.png |
 | datahinge.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/datahinge.png |
 | discordlogo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/discordlogo.png |
 | ivanryanlogo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanryanlogo.png |
