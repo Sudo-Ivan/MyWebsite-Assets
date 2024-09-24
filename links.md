@@ -98,6 +98,7 @@
 | frontend.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/frontend.png |
 | rustdev.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/services/rustdev.png |
 | wifi-monitor-pro-svgrepo-com.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/wifi-monitor-pro-svgrepo-com.png |
+| wireless-stickLite-front.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/wireless-stickLite-front.png |
 | IMG_3710.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg |
 | nixos-tactical-dark-1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tactical-dark-1920x1200.jpg |
 | nixos-tacticaltablets-logo1920x1200.jpg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/wallpapers/linux/nixos-tacticaltablets-logo1920x1200.jpg |
