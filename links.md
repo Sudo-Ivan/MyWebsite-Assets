@@ -13,6 +13,7 @@
 | quad4.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/quad4.png |
 | rns-botnet.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/rns-botnet.png |
 | titanosint.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/titanosint.png |
+| verilog-example.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/verilog-example.png |
 | Screenshot_20240511_160721.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/pdfapp/Screenshot_20240511_160721.png |
 | simplepdfapp.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/pdfapp/simplepdfapp.png |
 | customtextreplacer-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/customtextreplacer-preview01.png |
