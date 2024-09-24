@@ -84,6 +84,7 @@
 | tailwind-logo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/tailwind-logo.png |
 | voltaic.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/voltaic.png |
 | zig.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/zig.png |
+| llama-writer.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/models/llama-writer.png |
 | paneldesign01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/paneldesign01.png |
 | pdfapphomepage.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdfapphomepage.png |
 | pdficon01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdficon01.png |
