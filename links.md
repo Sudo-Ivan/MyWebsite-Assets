@@ -7,6 +7,7 @@
 | ivanryanlogo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanryanlogo.png |
 | ivanryanlogofavicon.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanryanlogofavicon.png |
 | ivanslabslogo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/ivanslabslogo.png |
+| monero.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/monero.png |
 | nuxtlogo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/nuxtlogo.png |
 | q4tactical-logo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/q4tactical-logo.png |
 | quad4.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/logo/quad4.png |
