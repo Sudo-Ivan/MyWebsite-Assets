@@ -15,6 +15,7 @@
 | simplepdfapp.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/pdfapp/simplepdfapp.png |
 | customtextreplacer-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/customtextreplacer-preview01.png |
 | simplepdfapp-preview01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/previewcards/simplepdfapp-preview01.png |
+| cryptic-logo.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/projects/cryptic-logo.png |
 | DTAC-tui.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC-tui.png |
 | DTAC.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/DTAC.png |
 | dtac-image.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/quad4/dtac-image.png |
@@ -118,6 +119,7 @@
 | CodeBlocks1.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/CodeBlocks1.svg |
 | cosmos.svg | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/cosmos.svg |
 | default.webp | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/authors/default.webp |
+| osint-toolbelt.ico | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/projects/osint-toolbelt.ico |
 | logoicon.ico | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/voltaichosting/logoicon.ico |
 | eos-timelapse01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eos-timelapse01.gif |
 | eoslv-compare01.gif | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/content/useful-geoint/eoslv-compare01.gif |
