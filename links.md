@@ -85,6 +85,7 @@
 | voltaic.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/voltaic.png |
 | zig.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/logos/zig.png |
 | llama-writer-2.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/models/llama-writer-2.png |
+| rusty-crab.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/models/rusty-crab.png |
 | paneldesign01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/paneldesign01.png |
 | pdfapphomepage.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdfapphomepage.png |
 | pdficon01.png | https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/website/pdficon01.png |
